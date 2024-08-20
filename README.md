@@ -3,7 +3,7 @@ Application for automatic staff scheduling.
 Features:
   - Authorization and authentication with Spring Security
   - Configure workspace with opening times, staff, contracts,...
-  - Add sickness and other unavailabilities
+  - Add sickness, fixed days off and other unavailabilities
   - Manual and automatic staff scheduling
   - Choose from multiple planning algorithms (basic and advanced algoritm)
   - Days with incomplete planning will be marked red 
